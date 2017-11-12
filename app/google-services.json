@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "866084651963",
+    "firebase_url": "https://smcam-6ec19.firebaseio.com",
+    "project_id": "smcam-6ec19",
+    "storage_bucket": "smcam-6ec19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866084651963:android:e3f3f577577264ee",
+        "android_client_info": {
+          "package_name": "com.frozensparks.svid.sm2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866084651963-v3lhto6kpe3dhks54rc3sl2vk34f31vm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frozensparks.svid.sm2",
+            "certificate_hash": "88e182e0e95508984a6bf8c7fdd42b7a4fe24a70"
+          }
+        },
+        {
+          "client_id": "866084651963-gshsg67ou34kket6vesto9pel4gff4cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM4fMHFY4ikZzS-FC4fq8ryTpRrqSTYx8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866084651963-gshsg67ou34kket6vesto9pel4gff4cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
